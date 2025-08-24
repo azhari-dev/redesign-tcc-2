@@ -1,0 +1,122 @@
+*, html {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Gordita", Helvetica;
+}
+
+body {
+  width: 100%;
+}
+
+/* navbar start */
+.navbar {
+  background-color: tomato;
+  display: flex;
+  padding: 12px 136px;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 0.3px solid var(--mainprimarypr-700, #187D28);
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 1px 2px 0 rgba(52, 159, 97, 0.50);
+  backdrop-filter: blur(17.5px);
+}
+
+.nav-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  font-size: var(--headline-headline-2-medium-font-size);
+  font-weight: var(--headline-headline-2-medium-font-weight);
+  font-style: var(--headline-headline-2-medium-font-style);
+  letter-spacing: var(--headline-headline-2-medium-letter-spacing);
+  line-height: var(--headline-headline-2-medium-line-height);
+}
+
+.nav-menu {
+  font-size: var(--headline-headline-3-medium-font-size);
+  font-weight: var(--headline-headline-3-medium-font-weight);
+  font-style: var(--headline-headline-3-medium-font-style);
+  letter-spacing: var(--headline-headline-3-medium-letter-spacing);
+  line-height: var(--headline-headline-3-medium-line-height);
+  display: flex;
+  align-items: center;
+  gap: 36px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+/* navbar end */
+
+/* main start */
+.home {
+  background-color: #187D28;
+  padding: 32px 136px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 236px;
+  /* align-self: stretch; */
+}
+
+.home-text {
+  /* background-color: tomato; */
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.text {
+  display: flex;
+  gap: 16px;
+  flex-direction: column;
+  font-size: var(--headline-headline-3-regular-font-size);
+  font-weight: var(--headline-headline-3-regular-font-weight);
+  font-style: var(--headline-headline-3-regular-font-style);
+  letter-spacing: var(--headline-headline-3-regular-letter-spacing);
+  line-height: var(--headline-headline-3-regular-line-height);
+}
+
+.heading-1 {
+  font-size: var(--heading-heading-1-bold-font-size);
+  font-weight: var(--heading-heading-1-bold-font-weight);
+  font-style: var(--heading-heading-1-bold-font-style);
+  letter-spacing: var(--heading-heading-1-bold-letter-spacing);
+  line-height: var(--heading-heading-1-bold-line-height);
+}
+
+.home-button {
+  display: flex;
+  padding-top: 12px;
+  align-items: center;
+  gap: 24px;
+}
+
+.daftar, .hubungi-panitia {
+  display: flex;
+  padding: 12px 48px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background: var(--mainprimarypr-700);
+  font-size: var(--label-label-1-medium-font-size);
+  font-weight: var(--label-label-1-medium-font-weight);
+  font-style: var(--label-label-1-medium-font-style);
+  letter-spacing: var(--label-label-1-medium-letter-spacing);
+  line-height: var(--label-label-1-medium-line-height);
+  
+  /* 3D */
+  box-shadow: 2px 2px 4px 0 rgba(178, 222, 203, 0.75) inset, -2px -2px 2px 0 rgba(0, 39, 12, 0.35) inset;
+  backdrop-filter: blur(3px);
+}
+
+/* .home-image {
+  background-color: tomato;
+} */
+/* main end */
+
