@@ -25,12 +25,36 @@ body {
   line-height: var(--heading-heading-3-bold-line-height);
 }
 
+.heading-3-medium {
+  font-size: var(--heading-heading-3-medium-font-size);
+  font-weight: var(--heading-heading-3-medium-font-weight);
+  font-style: var(--heading-heading-3-medium-font-style);
+  letter-spacing: var(--heading-heading-3-medium-letter-spacing);
+  line-height: var(--heading-heading-3-medium-line-height);
+}
+
+.headline-1-bold {
+  font-size: var(--headline-headline-1-bold-font-size);
+  font-weight: var(--headline-headline-1-bold-font-weight);
+  font-style: var(--headline-headline-1-bold-font-style);
+  letter-spacing: var(--headline-headline-1-bold-letter-spacing);
+  line-height: var(--headline-headline-1-bold-line-height);
+}
+
 .headline-3-regular {
   font-size: var(--headline-headline-3-regular-font-size);
   font-weight: var(--headline-headline-3-regular-font-weight);
   font-style: var(--headline-headline-3-regular-font-style);
   letter-spacing: var(--headline-headline-3-regular-letter-spacing);
   line-height: var(--headline-headline-3-regular-line-height);
+}
+
+.headline-3-medium {
+  font-size: var(--headline-headline-3-medium-font-size);
+  font-weight: var(--headline-headline-3-medium-font-weight);
+  font-style: var(--headline-headline-3-medium-font-style);
+  letter-spacing: var(--headline-headline-3-medium-letter-spacing);
+  line-height: var(--headline-headline-3-medium-line-height);
 }
 
 .headline-2-bold {
@@ -47,6 +71,22 @@ body {
   font-style: var(--label-label-1-medium-font-style);
   letter-spacing: var(--label-label-1-medium-letter-spacing);
   line-height: var(--label-label-1-medium-line-height);
+}
+
+.body-1-regular {
+  font-size: var(--body-body-1-regular-font-size);
+  font-weight: var(--body-body-1-regular-font-weight);
+  font-style: var(--body-body-1-regular-font-style);
+  letter-spacing: var(--body-body-1-regular-letter-spacing);
+  line-height: var(--body-body-1-regular-line-height);
+}
+
+.callout-medium {
+  font-size: var(--callout-medium-font-size);
+  font-weight: var(--callout-medium-font-weight);
+  font-style: var(--callout-medium-font-style);
+  letter-spacing: var(--callout-medium-letter-spacing);
+  line-height: var(--callout-medium-line-height);
 }
 
 .flower {
@@ -115,19 +155,13 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  font-size: var(--headline-headline-2-medium-font-size);
-  font-weight: var(--headline-headline-2-medium-font-weight);
-  font-style: var(--headline-headline-2-medium-font-style);
-  letter-spacing: var(--headline-headline-2-medium-letter-spacing);
-  line-height: var(--headline-headline-2-medium-line-height);
+}
+
+.nav-logo img {
+  width: 26px;
 }
 
 .nav-menu {
-  font-size: var(--headline-headline-3-medium-font-size);
-  font-weight: var(--headline-headline-3-medium-font-weight);
-  font-style: var(--headline-headline-3-medium-font-style);
-  letter-spacing: var(--headline-headline-3-medium-letter-spacing);
-  line-height: var(--headline-headline-3-medium-line-height);
   display: flex;
   align-items: center;
   gap: 36px;
@@ -396,5 +430,160 @@ a {
 }
 /* faq end */
 
+/* sponsor start */
+.sponsor {
+  /* padding: 32px 136px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+.sponsor .contain {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.sponsor .headings, .sponsorship, .medpart {
+  align-items: center;
+  padding: 24px 136px;
+  /* background-color: tomato; */
+}
+
+.sponsorship, .medpart {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+.sponsor-content, .medpart-content {
+  display: flex;
+  gap: 48px;
+}
+
+.item-sponsor {
+  width: 150px;
+  height: 150px;
+}
+
+.item-medpart {
+  width: 100px;
+  height: 100px;
+}
+
+.item-sponsor, .item-medpart {
+  flex-shrink: 0;
+  border-radius: 100%;
+  background-color: var(--mainprimarypr-700);
+  box-shadow: 3px 3px 6px 0 rgba(178, 222, 203, 0.75) inset, -3px -3px 4px 0 rgba(0, 39, 12, 0.35) inset;
+  backdrop-filter: blur(3px);
+}
+
+.footer {
+  padding: 24px 0 0;
+}
+
+.contact, .sosmed, .copyright {
+  display: flex;
+  justify-content: space-between;
+}
+
+.copyright {
+  gap: 4px;
+  align-items: center;
+}
+
+.contact {
+  background-color: var(--mainprimarypr-900);
+  color: var(--mainprimarypr-50);
+  padding: 48px 136px;
+}
+
+.contact-content-1, .contact-content-2, .contact-content-3 {
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-start; */
+  /* background-color: tomato; */
+}
+
+.contact-content-1 {
+  gap: 24px;
+}
+
+.contact-content-2 {
+  gap: 16px;
+}
+
+.contact-content-3 {
+  gap: 48px;
+}
+
+.footer-tcc {
+  display: flex;
+  /* background-color: aquamarine; */
+  gap: 24px;
+}
+
+.footer-tcc img {
+  width: 52px;
+}
+
+.quick-links {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  gap: 8px;
+}
+
+.quick-links a {
+  color: var(--mainprimarypr-50);
+}
+
+.contact-contain {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.contact-fill {
+  /* background-color: tomato; */
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.list-contact {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.presented {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.presented-logo {
+  display: flex;
+  gap: 20px;
+}
+
+.presented img {
+  height: 64px;
+}
+
+.sosmed {
+  align-items: center;
+  background-color: var(--mainprimarypr-50);
+  color: var(--mainprimarypr-900);
+  padding: 24px 136px;
+}
+
+.sosmed-fill {
+  display: flex;
+  gap: 12px;
+}
+/* sponsor end */
 
