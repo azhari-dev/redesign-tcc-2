@@ -65,6 +65,7 @@
   --statusdangerdg-800: rgba(165, 28, 15, 1);
   --statusdangerdg-900: rgba(136, 30, 20, 1);
   --statusdangerdg-950: rgba(75, 10, 4, 1);
+  --Linear-2: linear-gradient(90deg, rgba(224, 230, 139, 0.00) 0%, #165120 35%, #165120 65%, rgba(224, 230, 139, 0.00) 100%);
   --display-regular-font-family: "Gordita", Helvetica;
   --display-regular-font-weight: 400;
   --display-regular-font-size: 72px;
