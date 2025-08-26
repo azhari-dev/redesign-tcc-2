@@ -133,11 +133,20 @@ body {
   gap: 36px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .menu {
   display: flex;
   padding: 8px 0;
-  border-bottom: 2px solid var(--mainprimarypr-700);
+  /* border-bottom: 2px solid var(--mainprimarypr-700); */
   color: var(--mainprimarypr-700);
+}
+
+.active, .menu:hover {
+  border-bottom: 2px solid var(--mainprimarypr-700);
+  color: var(--mainprimarypr-900);
 }
 /* navbar end */
 
@@ -205,6 +214,7 @@ body {
   padding: 24px 0;
   align-self: stretch;
   justify-content: center;
+  color: var(--mainprimarypr-900);
 }
 
 .contain {
@@ -212,6 +222,7 @@ body {
   justify-content: space-between;
   align-self: stretch;
   padding: 24px 0;
+  color: var(--mainprimarypr-700);
 }
 
 .card {
