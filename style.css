@@ -307,29 +307,21 @@ a {
 
 .event .contain {
   display: flex;
-  /* background-color: tomato; */
   align-self: stretch;
   border: 2px solid var(--Linear-1, #349F61);
   background: var(--mainprimarypr-50, #F0FDF1);
   border-radius: 16px;
-  /* background-color: tomato; */
-  display: flex;
   padding: 48px 36px;
   justify-content: center;
   align-items: center;
   gap: 36px;
-  align-self: stretch;
 }
 
 .event .content {
-  /* background-color: tomato; */
   display: flex;
   flex-direction: row;
   align-items: center;
-  /* justify-content: space-between; */
   gap: 94px;
-  /* flex: 1 0 0; */
-  /* align-self: stretch; */
 }
 
 .event .content-text {
@@ -338,7 +330,6 @@ a {
   align-self: stretch;
   gap: 48px;
   width: 75%;
-  /* background-color: aqua; */
 }
 
 .content-image {
@@ -358,3 +349,52 @@ a {
   width: 100%;
 }
 /* event end */
+
+/* faq start */
+.faq {
+  padding: 32px 136px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+.faq .contain {
+  display: flex;
+  align-self: stretch;
+  /* background-color: tomato; */
+  border-radius: 16px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+.faq .contain-faq {
+  /* background-color: tomato; */
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 50%;
+}
+
+.faq-card {
+  display: flex;
+  padding: 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1.5px solid var(--Linear-1, #349F61);
+  background: #F0FDF1;
+}
+
+.faq-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+}
+/* faq end */
+
+
+
