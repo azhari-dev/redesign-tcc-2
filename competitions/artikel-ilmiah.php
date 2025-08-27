@@ -20,11 +20,11 @@
           <p class="headline-3-medium">Trunojoyo Creative Competition</p>
         </div>
         <div class="nav-menu callout-medium">
-          <a href="../index.html" class="menu active">Home</a>
-          <a href="../index.html#competitions" class="menu">Competitions</a>
-          <a href="../index.html#event" class="menu">Events</a>
-          <a href="../index.html#faq" class="menu">FAQ</a>
-          <a href="../index.html#contact" class="menu">Contact</a>
+          <a href="../index.php" class="menu active">Home</a>
+          <a href="../index.php#competitions" class="menu">Competitions</a>
+          <a href="../index.php#event" class="menu">Events</a>
+          <a href="../index.php#faq" class="menu">FAQ</a>
+          <a href="../index.php#contact" class="menu">Contact</a>
         </div>
       </div>
       <div class="competitions-page">
