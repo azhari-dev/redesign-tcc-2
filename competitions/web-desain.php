@@ -321,6 +321,7 @@
     </div>
   </div>
 
+  <?php require_once '../absolute_elements_other.php' ?>
 </body>
 
 </html>

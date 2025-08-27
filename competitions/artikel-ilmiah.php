@@ -15,6 +15,9 @@
     <link rel="stylesheet" href="../styles/events.css" />
     <link rel="stylesheet" href="../styles/faq.css" />
     <link rel="stylesheet" href="../styles/contact.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Righteous&display=swap" rel="stylesheet">
   </head>
   <body>
     <div class="container">
@@ -43,7 +46,7 @@
         </div>
         <div class="section">
           <div class="section-content">
-            <p class="headline-3-medium">Participants are asked to write scientific articles on the themes of technology, education, or digital innovation.</p>
+            <p class="headline-3-medium">Peserta diminta menulis artikel ilmiah dengan tema teknologi,  pendidikan, atau inovasi digial.</p>
             <div class="card-button">
               <div class="card-button">
                 <a href="#" class="label-1-medium button-2-1">Daftar</a>
@@ -318,6 +321,8 @@
         </div>
       </div>
     </div>
+
+    <?php require_once '../absolute_elements_other.php' ?>
     
   </body>
 </html>
