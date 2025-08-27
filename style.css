@@ -271,7 +271,7 @@ a {
   align-items: center;
 }
 
-.card-icon {
+.card-icon, .card-icon-juara {
   box-sizing: unset;
   padding: 16px;
   background-color: var(--mainprimarypr-700);
@@ -646,7 +646,7 @@ a {
   padding: 12px 0;
 }
 
-.card-icon img {
+.card-icon-juara img {
   height: 100%;
   width: 65%;
 }
