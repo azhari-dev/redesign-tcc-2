@@ -9,7 +9,11 @@
     </div>
   </div>
   <div class="contain">
-    <div class="chevron-left">#</div>
+    <div class="chevron left">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="31" viewBox="0 0 14 31" fill="none">
+        <path d="M1 1.48315L13 15.4832L1 29.4832" stroke="#187D28" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
     <div class="content">
       <div class="content-text">
         <div class="text">
@@ -25,6 +29,10 @@
         <img src="img/webinar.jpeg" alt="webinar">
       </div>
     </div>
-    <div class="chevron-right">#</div>
+    <div class="chevron right">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="31" viewBox="0 0 14 31" fill="none">
+        <path d="M1 1.48315L13 15.4832L1 29.4832" stroke="#187D28" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
   </div>
 </div>

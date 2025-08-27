@@ -10,14 +10,12 @@
 .faq .contain {
   display: flex;
   align-self: stretch;
-  /* background-color: tomato; */
   border-radius: 16px;
   justify-content: space-between;
   align-items: center;
   gap: 24px;
 }
 .faq .contain-faq {
-  /* background-color: tomato; */
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -26,14 +24,14 @@
 
 .faq-card {
   display: flex;
-  padding: 24px;
+  padding: 16px 36px 24px 24px;
   flex-direction: column;
   align-items: flex-start;
   gap: 12px;
   align-self: stretch;
   border-radius: 8px;
-  border: 1.5px solid var(--Linear-1, #349F61);
-  background: #F0FDF1;
+  border: 2px solid var(--Linear-1, #349F61);
+  background: var(--mainprimarypr-50, #F0FDF1);
 }
 
 .faq-content {

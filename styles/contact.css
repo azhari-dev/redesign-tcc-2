@@ -1,6 +1,5 @@
 /* sponsor start */
 .sponsor {
-  /* padding: 32px 136px; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -16,7 +15,6 @@
 .sponsor .headings, .sponsorship, .medpart {
   align-items: center;
   padding: 24px 136px;
-  /* background-color: tomato; */
 }
 
 .sponsorship, .medpart {
@@ -71,8 +69,6 @@
 .contact-content-1, .contact-content-2, .contact-content-3 {
   display: flex;
   flex-direction: column;
-  /* align-items: flex-start; */
-  /* background-color: tomato; */
 }
 
 .contact-content-1 {
@@ -89,7 +85,6 @@
 
 .footer-tcc {
   display: flex;
-  /* background-color: aquamarine; */
   gap: 24px;
 }
 
@@ -115,7 +110,6 @@
 }
 
 .contact-fill {
-  /* background-color: tomato; */
   display: flex;
   flex-direction: column;
   gap: 16px;

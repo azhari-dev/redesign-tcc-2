@@ -1,4 +1,5 @@
 :root {
+  --Linear-3: linear-gradient(to right, #60AA1C, #EFEE99);
   --mainprimarypr-50: rgba(240, 253, 241, 1);
   --mainprimarypr-100: rgba(221, 251, 224, 1);
   --mainprimarypr-200: rgba(189, 245, 197, 1);

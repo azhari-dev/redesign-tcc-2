@@ -41,7 +41,6 @@
   width: 64px;
   height: 64px;
   border-radius: 100%;
-  /* background: var(--Main-Primary-pr700, #187D28); */
 
   /* 3D */
   box-shadow: 2px 2px 4px 0 rgba(178, 222, 203, 0.75) inset, -2px -2px 2px 0 rgba(0, 39, 12, 0.35) inset;
@@ -70,13 +69,10 @@
 }
 
 .subtract {
-  /* position: absolute; */
   height: 360px;
   flex-shrink: 0;
-  /* align-self: stretch; */
   fill: var(--mainprimarypr-50, #F0FDF1);
   stroke-width: 2px;
-  stroke: var(--Linear-1, #349F61);
 }
 
 .card-content {
