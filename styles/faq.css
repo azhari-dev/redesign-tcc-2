@@ -1,0 +1,45 @@
+/* faq start */
+.faq {
+  padding: 32px 136px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+.faq .contain {
+  display: flex;
+  align-self: stretch;
+  /* background-color: tomato; */
+  border-radius: 16px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+.faq .contain-faq {
+  /* background-color: tomato; */
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 50%;
+}
+
+.faq-card {
+  display: flex;
+  padding: 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1.5px solid var(--Linear-1, #349F61);
+  background: #F0FDF1;
+}
+
+.faq-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+}
+/* faq end */

@@ -10,6 +10,11 @@
     content="Trunojoyo Creative Competition 2025 - Wadah kolaborasi, eksplorasi, dan pengembangan diri di bidang teknologi informasi dan komunikasi" />
   <link rel="stylesheet" href="styles/styleguide.css" />
   <link rel="stylesheet" href="styles/style.css" />
+  <link rel="stylesheet" href="styles/home.css" />
+  <link rel="stylesheet" href="styles/competitions.css" />
+  <link rel="stylesheet" href="styles/events.css" />
+  <link rel="stylesheet" href="styles/faq.css" />
+  <link rel="stylesheet" href="styles/contact.css" />
 </head>
 
 <body>
