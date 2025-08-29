@@ -52,6 +52,8 @@
 
   <?php require_once 'absolute_elements.php' ?>
 
+  <script src="main.js"></script>
+
 </body>
 
 </html>

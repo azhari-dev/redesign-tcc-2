@@ -34,6 +34,13 @@
   background: var(--mainprimarypr-50, #F0FDF1);
 }
 
+.faq-card:first-child {
+  position: relative;
+  /* height: 200px; */
+  right: 30;
+  background-color: rebeccapurple;
+}
+
 .faq-content {
   display: flex;
   justify-content: space-between;

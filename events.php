@@ -17,7 +17,7 @@
     <div class="content">
       <div class="content-text">
         <div class="text">
-          <p class="heading-3-bold">Pra Acara</p>
+          <p class="heading-3-bold" id="judul">Pra Acara</p>
           <p class="headline-3-regular">Participants are asked to write scientific articles on the themes of technology, education, or digital innovation. Participants are asked to write scientific articles on the themes of technology, education, or digital innovation. Participants are asked to write scientific articles on the themes of technology, education, or digital innovation.</p>
         </div>
         <div class="card-button">
