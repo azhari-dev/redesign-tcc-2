@@ -51,6 +51,7 @@
               <div class="card-button">
                 <a href="#" class="label-1-medium button-2-1">Daftar</a>
                 <a href="#" class="label-1-medium button-2-2">Guidebook</a>
+                <a href="#" class="label-1-medium button-2-1">Pengumpulan Karya</a>
               </div>
             </div>
           </div>

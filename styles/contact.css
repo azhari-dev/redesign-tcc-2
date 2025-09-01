@@ -12,6 +12,17 @@
   gap: 24px;
 }
 
+.item-sponsor, .item-medpart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-sponsor img {
+  width: 80px;
+  height: 80px;
+}
+
 .sponsor .headings, .sponsorship, .medpart {
   align-items: center;
   padding: 24px 136px;

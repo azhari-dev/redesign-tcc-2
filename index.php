@@ -28,7 +28,7 @@
       <?php require_once 'home.php' ?>
       <?php require_once 'competitions.php' ?>
       <?php require_once 'events.php' ?>
-      <?php require_once 'faq.php' ?>
+      <!-- <?php require_once 'faq.php' ?> -->
       <div class="sponsor" id="sponsor">
         <div class="headings">
           <div class="flower">
