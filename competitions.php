@@ -35,7 +35,7 @@
             <p class="headline-3-regular">Peserta diminta menulis artikel ilmiah dengan tema teknologi, pendidikan, atau inovasi digial.</p>
           </div>
           <div class="card-button">
-            <a href="#" class="label-1-medium button-2-1">Daftar</a>
+            <a href="https://bit.ly/Pendaftaran_LKTI_TCC2025" class="label-1-medium button-2-1">Daftar</a>
             <a href="competitions/artikel-ilmiah.php" class="label-1-medium button-2-2">Detail</a>
           </div>
         </div>
@@ -67,7 +67,7 @@
             <p class="headline-3-regular">Peserta membuat desain poster digital bertema teknologi, kreativitas, atau edukasi generasi muda.</p>
           </div>
           <div class="card-button">
-            <a href="#" class="label-1-medium button-2-1">Daftar</a>
+            <a href="https://bit.ly/Pendaftaran_DesainGrafisTCC2025" class="label-1-medium button-2-1">Daftar</a>
             <a href="competitions/desain-grafis.php" class="label-1-medium button-2-2">Detail</a>
           </div>
         </div>
@@ -99,7 +99,7 @@
             <p class="headline-3-regular">Peserta membuat desain antarmuka (UI) dan struktur sederhana halaman web untuk produk atau tema tertentu.</p>
           </div>
           <div class="card-button">
-            <a href="#" class="label-1-medium button-2-1">Daftar</a>
+            <a href="https://bit.ly/Pendaftaran_WebDesainTCC2025" class="label-1-medium button-2-1">Daftar</a>
             <a href="competitions/web-desain.php" class="label-1-medium button-2-2">Detail</a>
           </div>
         </div>
