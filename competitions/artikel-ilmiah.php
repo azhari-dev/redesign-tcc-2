@@ -49,8 +49,8 @@
             <p class="headline-3-medium">Peserta diminta menulis artikel ilmiah dengan tema teknologi,  pendidikan, atau inovasi digial.</p>
             <div class="card-button">
               <div class="card-button">
-                <a href="#" class="label-1-medium button-2-1">Daftar</a>
-                <a href="#" class="label-1-medium button-2-2">Guidebook</a>
+                <a href="https://bit.ly/Pendaftaran_LKTI_TCC2025" class="label-1-medium button-2-1">Daftar</a>
+                <a href="https://bit.ly/Guidebook_LKTI_TCC2025" class="label-1-medium button-2-2">Guidebook</a>
               </div>
             </div>
           </div>
@@ -65,7 +65,7 @@
           </div>
         </div>
         <div class="section registrasi">
-          <p>Rp. 75.000</p>
+          <p>Rp 50.000</p>
           <p class="heading-3-medium">/Tim</p>
         </div>
         <div class="headings">
@@ -107,11 +107,19 @@
                   </div>
                   <div class="list-card">
                     <img src="../img/elemen-4.png" alt="elemen-5">
-                    <p class="headline-3-medium">Sertifikat</p>
+                    <p class="headline-3-medium">E-Sertifikat</p>
                   </div>
                   <div class="list-card">
                     <img src="../img/elemen-4.png" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
+                  </div>
+                  <div class="list-card">
+                  <img src="../img/elemen-4.png" alt="elemen-5">
+                  <p class="headline-3-medium">Buku</p>
+                  </div>
+                  <div class="list-card">
+                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <p class="headline-3-medium">Publish Jurnal</p>
                   </div>
                 </div>
               </div>
@@ -146,11 +154,19 @@
                   </div>
                   <div class="list-card">
                     <img src="../img/elemen-4.png" alt="elemen-5">
-                    <p class="headline-3-medium">Sertifikat</p>
+                    <p class="headline-3-medium">E-Sertifikat</p>
                   </div>
                   <div class="list-card">
                     <img src="../img/elemen-4.png" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
+                  </div>
+                  <div class="list-card">
+                  <img src="../img/elemen-4.png" alt="elemen-5">
+                  <p class="headline-3-medium">Buku</p>
+                  </div>
+                  <div class="list-card">
+                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <p class="headline-3-medium">Publish Jurnal</p>
                   </div>
                 </div>
               </div>
@@ -185,11 +201,19 @@
                   </div>
                   <div class="list-card">
                     <img src="../img/elemen-4.png" alt="elemen-5">
-                    <p class="headline-3-medium">Sertifikat</p>
+                    <p class="headline-3-medium">E-Sertifikat</p>
                   </div>
                   <div class="list-card">
                     <img src="../img/elemen-4.png" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
+                  </div>
+                  <div class="list-card">
+                  <img src="../img/elemen-4.png" alt="elemen-5">
+                  <p class="headline-3-medium">Buku</p>
+                  </div>
+                  <div class="list-card">
+                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <p class="headline-3-medium">Publish Jurnal</p>
                   </div>
                 </div>
               </div>

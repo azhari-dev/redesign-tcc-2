@@ -48,8 +48,8 @@
           <p class="headline-3-medium">Participants are asked to write scientific articles on the themes of technology, education, or digital innovation.</p>
           <div class="card-button">
             <div class="card-button">
-              <a href="#" class="label-1-medium button-2-1">Daftar</a>
-              <a href="#" class="label-1-medium button-2-2">Guidebook</a>
+              <a href="https://bit.ly/Pendaftaran_WebDesainTCC2025" class="label-1-medium button-2-1">Daftar</a>
+              <a href="https://bit.ly/Guidebook_WebDesainTCC2025" class="label-1-medium button-2-2">Guidebook</a>
             </div>
           </div>
         </div>
@@ -64,8 +64,8 @@
         </div>
       </div>
       <div class="section registrasi">
-        <p>Rp. 75.000</p>
-        <p class="heading-3-medium">/Tim</p>
+        <p>Rp 35.000</p>
+        <p class="heading-3-medium">/Individu</p>
       </div>
       <div class="headings">
         <div class="flower">
@@ -106,7 +106,7 @@
                 </div>
                 <div class="list-card">
                   <img src="../img/elemen-4.png" alt="elemen-5">
-                  <p class="headline-3-medium">Sertifikat</p>
+                  <p class="headline-3-medium">E-Sertifikat</p>
                 </div>
                 <div class="list-card">
                   <img src="../img/elemen-4.png" alt="elemen-5">
