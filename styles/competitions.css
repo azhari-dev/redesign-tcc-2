@@ -7,6 +7,12 @@
   align-items: center;
 }
 
+.timeline {
+  display: flex;
+  align-items: start;
+  /* background-color: aqua; */
+}
+
 .headings {
   display: flex;
   gap: 48px;
@@ -15,6 +21,10 @@
   align-self: stretch;
   justify-content: center;
   color: var(--mainprimarypr-900);
+}
+
+.section-content .headline-3-medium {
+  text-align: justify;
 }
 
 .contain {
@@ -90,5 +100,18 @@
   align-items: start;
   flex-direction: column;
   gap: 12px;
+}
+
+.timeline-tgl {
+  color: var(--mainprimarypr-50);
+  display: flex;
+  padding: 12px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 6px;
+  background: linear-gradient(92deg, #187D28 0%, #DDE589 100%);
+  box-shadow: 2px 2px 4px 0 rgba(137, 236, 151, 0.50) inset, -2px -2px 2px 0 rgba(214, 225, 133, 0.35) inset;
+  backdrop-filter: blur(3px);
 }
 /* competitions end */

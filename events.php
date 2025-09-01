@@ -17,16 +17,16 @@
     <div class="content">
       <div class="content-text">
         <div class="text">
-          <p class="heading-3-bold" id="judul">Pra Acara</p>
-          <p class="headline-3-regular">Participants are asked to write scientific articles on the themes of technology, education, or digital innovation. Participants are asked to write scientific articles on the themes of technology, education, or digital innovation. Participants are asked to write scientific articles on the themes of technology, education, or digital innovation.</p>
+          <p class="heading-3-bold" id="judul">Pra Event</p>
+          <p class="headline-3-regular" id="deskripsi">Webinar Karya Tulis Ilmiah merupakan rangkaian acara Trunojoyo Creative Competition 2025 yang diselenggarakan oleh UKM TRIPLE-C Universitas Trunojoyo Madura bekerja sama dengan KOPI ALINEA. Mengusung tema “The Architectonics of Scholarly Writing: Advanced Strategies for Precision, Persuasion, and Impact”, acara ini menghadirkan narasumber berpengalaman dari universitas internasional untuk membahas strategi menulis ilmiah yang presisi, persuasif, dan berdampak.</p>
         </div>
         <div class="card-button">
           <a href="#" class="label-1-medium button-2-1">Daftar</a>
-          <a href="#" class="label-1-medium button-2-2">Detail</a>
+          <!-- <a href="#" class="label-1-medium button-2-2">Detail</a> -->
         </div>
       </div>
       <div class="content-image">
-        <img src="img/webinar.jpeg" alt="webinar">
+        <img id="gambar" src="img/webinar.jpeg" alt="webinar">
       </div>
     </div>
     <div class="chevron right">

@@ -59,6 +59,14 @@ body {
   line-height: var(--headline-headline-3-medium-line-height);
 }
 
+.headline-3-bold {
+  font-size: var(--headline-headline-3-bold-font-size);
+  font-weight: var(--headline-headline-3-bold-font-weight);
+  font-style: var(--headline-headline-3-bold-font-style);
+  letter-spacing: var(--headline-headline-3-bold-letter-spacing);
+  line-height: var(--headline-headline-3-bold-line-height);
+}
+
 .headline-2-bold {
   font-size: var(--headline-headline-2-bold-font-size);
   font-weight: var(--headline-headline-2-bold-font-weight);
@@ -89,6 +97,14 @@ body {
   font-style: var(--callout-medium-font-style);
   letter-spacing: var(--callout-medium-letter-spacing);
   line-height: var(--callout-medium-line-height);
+}
+
+.footnote-medium {
+  font-size: var(--footnote-medium-font-size);
+  font-weight: var(--footnote-medium-font-weight);
+  font-style: var(--footnote-medium-font-style);
+  letter-spacing: var(--footnote-medium-letter-spacing);
+  line-height: var(--footnote-medium-line-height);
 }
 
 .flower {
