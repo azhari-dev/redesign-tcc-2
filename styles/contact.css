@@ -19,8 +19,13 @@
 }
 
 .item-sponsor img {
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
+}
+
+.item-sponsor.nelongso img {
+  /* width: 100px; */
+  height: 50px;
 }
 
 .sponsor .headings, .sponsorship, .medpart {

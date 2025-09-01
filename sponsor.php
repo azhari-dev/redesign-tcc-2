@@ -2,16 +2,16 @@
     <p class="heading-3-medium">Sponsorship</p>
     <div class="sponsor-content">
         <div class="item-sponsor">
-            <img src="img/ukir-pecah.png" alt="">
+            <img src="img/utm-water.png" alt="">
+        </div>
+        <div class="item-sponsor nelongso">
+            <img src="img/nelongso.png" alt="">
         </div>
         <div class="item-sponsor">
             <img src="img/haifa.png" alt="">
         </div>
         <div class="item-sponsor">
-            <img src="img/nelongso.png" alt="">
-        </div>
-        <div class="item-sponsor">
-            <img src="img/utm-water.png" alt="">
+            <img src="img/ukir-pecah.png" alt="">
         </div>
         <div class="item-sponsor">
             <img src="img/wbl.png" alt="">
