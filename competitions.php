@@ -11,7 +11,7 @@
   <div class="contain">
     <div class="card">
       <div class="card-icon">
-        <img src="img/artikel-ilmiah.png" alt="artikel-ilmiah">
+        <img src="img/artikel-ilmiah.webp" alt="artikel-ilmiah">
       </div>
       <div class="card-contain">
         <div class="subtract-contain">
@@ -43,7 +43,7 @@
     </div>
     <div class="card">
       <div class="card-icon">
-        <img src="img/desain-grafis.png" alt="artikel-ilmiah">
+        <img src="img/desain-grafis.webp" alt="artikel-ilmiah">
       </div>
       <div class="card-contain">
         <div class="subtract-contain">
@@ -75,7 +75,7 @@
     </div>
     <div class="card">
       <div class="card-icon">
-        <img src="img/web-desain.png" alt="artikel-ilmiah">
+        <img src="img/web-desain.webp" alt="artikel-ilmiah">
       </div>
       <div class="card-contain">
         <div class="subtract-contain">

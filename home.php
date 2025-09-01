@@ -11,6 +11,6 @@
     </div>
     <div class="home-image">
         <div class="ellipse"></div>
-        <img src="img/jack.png" alt="jack">
+        <img src="img/jack.webp" alt="jack">
     </div>
 </div>

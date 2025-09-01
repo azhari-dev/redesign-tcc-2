@@ -23,14 +23,14 @@
     <div class="container">
       <div class="navbar">
         <div class="nav-logo">
-          <img src="../img/logotcc.png" alt="logo tcc">
+          <img src="../img/logotcc.webp" alt="logo tcc">
           <p class="headline-3-medium">Trunojoyo Creative Competition</p>
         </div>
         <div class="nav-menu callout-medium">
           <a href="../index.php" class="menu active">Home</a>
           <a href="../index.php#competitions" class="menu">Competitions</a>
           <a href="../index.php#event" class="menu">Events</a>
-          <a href="../index.php#faq" class="menu">FAQ</a>
+          <!-- <a href="../index.php#faq" class="menu">FAQ</a> -->
           <a href="../index.php#contact" class="menu">Contact</a>
         </div>
       </div>
@@ -58,11 +58,11 @@
         </div>
         <div class="headings">
           <div class="flower">
-            <img src="../img/elemen-10.png" alt="union-lite">
+            <img src="../img/elemen-10.webp" alt="union-lite">
           </div>
           <p class="heading-2-bold">Biaya Registrasi</p>
           <div class="flower">
-            <img src="../img/elemen-10.png" alt="union-lite">
+            <img src="../img/elemen-10.webp" alt="union-lite">
           </div>
         </div>
         <div class="section registrasi">
@@ -71,17 +71,17 @@
         </div>
         <div class="headings">
           <div class="flower">
-            <img src="../img/elemen-4.png" style="rotate: -8deg;" alt="union-lite">
+            <img src="../img/elemen-4.webp" style="rotate: -8deg;" alt="union-lite">
           </div>
           <p class="heading-2-bold">Hadiah</p>
           <div class="flower">
-            <img src="../img/elemen-4.png" style="rotate: -8deg;" alt="union-lite">
+            <img src="../img/elemen-4.webp" style="rotate: -8deg;" alt="union-lite">
           </div>
         </div>
         <div class="section hadiah contain">
           <div class="card">
             <div class="card-icon-juara">
-              <img src="../img/second.png" alt="juara">
+              <img src="../img/second.webp" alt="juara">
             </div>
             <div class="card-contain">
               <div class="subtract-contain">
@@ -103,23 +103,23 @@
                 <p class="heading-3-bold">JUARA 2</p>
                 <div class="content">
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Uang Pembinaan</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">E-Sertifikat</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
                   </div>
                   <div class="list-card">
-                  <img src="../img/elemen-4.png" alt="elemen-5">
+                  <img src="../img/elemen-4.webp" alt="elemen-5">
                   <p class="headline-3-medium">Buku</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Publish Jurnal</p>
                   </div>
                 </div>
@@ -128,7 +128,7 @@
           </div>
           <div class="card">
             <div class="card-icon-juara">
-              <img src="../img/first.png" alt="juara">
+              <img src="../img/first.webp" alt="juara">
             </div>
             <div class="card-contain">
               <div class="subtract-contain">
@@ -150,23 +150,23 @@
                 <p class="heading-3-bold">JUARA 1</p>
                 <div class="content">
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Uang Pembinaan</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">E-Sertifikat</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
                   </div>
                   <div class="list-card">
-                  <img src="../img/elemen-4.png" alt="elemen-5">
+                  <img src="../img/elemen-4.webp" alt="elemen-5">
                   <p class="headline-3-medium">Buku</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Publish Jurnal</p>
                   </div>
                 </div>
@@ -175,7 +175,7 @@
           </div>
           <div class="card">
             <div class="card-icon-juara">
-              <img src="../img/third.png" alt="juara">
+              <img src="../img/third.webp" alt="juara">
             </div>
             <div class="card-contain">
               <div class="subtract-contain">
@@ -197,23 +197,23 @@
                 <p class="heading-3-bold">JUARA 3</p>
                 <div class="content">
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Uang Pembinaan</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">E-Sertifikat</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
                   </div>
                   <div class="list-card">
-                  <img src="../img/elemen-4.png" alt="elemen-5">
+                  <img src="../img/elemen-4.webp" alt="elemen-5">
                   <p class="headline-3-medium">Buku</p>
                   </div>
                   <div class="list-card">
-                    <img src="../img/elemen-4.png" alt="elemen-5">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Publish Jurnal</p>
                   </div>
                 </div>
@@ -223,11 +223,11 @@
         </div>
         <div class="headings">
           <div class="flower">
-            <img src="../img/elemen-8.png" style="rotate: -8deg;" alt="union-lite">
+            <img src="../img/elemen-8.webp" style="rotate: -8deg;" alt="union-lite">
           </div>
           <p class="heading-2-bold">Timeline</p>
           <div class="flower">
-            <img src="../img/elemen-8.png" style="rotate: -8deg;" alt="union-lite">
+            <img src="../img/elemen-8.webp" style="rotate: -8deg;" alt="union-lite">
           </div>
         </div>
         <div class="timeline">

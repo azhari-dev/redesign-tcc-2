@@ -1,7 +1,7 @@
 <div class="contact">
     <div class="contact-content-1">
         <div class="footer-tcc">
-            <img src="img/logotcc.png" alt="">
+            <img src="img/logotcc.webp" alt="">
             <p class="headline-1-bold">Trunojoyo <br> Creative <br> Competition</p>
         </div>
         <p class="headline-3-regular">UKM Creative Computer Club (Triple-C) <br> Universitas Trunojoyo Madura <br> Jl. Raya Telang, Bangkalan, Jawa Timur 69162</p>
@@ -36,7 +36,7 @@
             <div class="presented-logo">
                 <img src="img/utm.png" alt="utm">
                 <img src="img/triplec.png" alt="utm">
-                <img src="img/logotcc.png" alt="utm">
+                <img src="img/logotcc.webp" alt="utm">
             </div>
         </div>
     </div>

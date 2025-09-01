@@ -13,10 +13,10 @@
         <a href="https://www.tiktok.com/@ukm.triplec_official">
             <img src="img/tiktok.svg" alt="tiktok">
         </a>
-        <a href="#">
+        <a href="https://www.youtube.com/@ukmtriple-c">
             <img src="img/youtube.svg" alt="youtube">
         </a>
-        <a href="#">
+        <a href="https://x.com/ukmtriplec1">
             <img src="img/x.svg" alt="x">
         </a>
         <a href="#">

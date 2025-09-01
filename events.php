@@ -26,7 +26,7 @@
         </div>
       </div>
       <div class="content-image">
-        <img id="gambar" src="img/webinar.jpeg" alt="webinar">
+        <img id="gambar" src="img/webinar.webp" alt="webinar">
       </div>
     </div>
     <div class="chevron right">

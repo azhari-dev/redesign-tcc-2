@@ -1,6 +1,6 @@
 <div class="navbar">
   <div class="nav-logo">
-    <img src="img/logotcc.png" alt="logo tcc">
+    <img src="img/logotcc.webp" alt="logo tcc">
     <p class="headline-3-medium">Trunojoyo Creative Competition</p>
   </div>
   <div class="nav-menu callout-medium">

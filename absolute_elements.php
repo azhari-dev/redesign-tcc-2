@@ -71,12 +71,12 @@
   </defs>
 </svg>
 
-<img src="img/elemen-8.png" alt="element" class="image-element moon">
-<img src="img/elemen-2.png" alt="element" class="image-element mouth">
+<img src="img/elemen-8.webp" alt="element" class="image-element moon">
+<img src="img/elemen-2.webp" alt="element" class="image-element mouth">
 <img src="img/elemen-1.png" alt="element" class="image-element bunga">
-<img src="img/elemen-7.png" alt="element" class="image-element teratai">
-<img src="img/elemen-4.png" alt="element" class="image-element star">
-<img src="img/elemen-3.png" alt="element" class="image-element abstract-1">
-<img src="img/elemen-5.png" alt="element" class="image-element abstract-2">
-<img src="img/elemen-6.png" alt="element" class="image-element abstract-3">
-<img src="img/elemen-9.png" alt="element" class="image-element abstract-4">
+<img src="img/elemen-7.webp" alt="element" class="image-element teratai">
+<img src="img/elemen-4.webp" alt="element" class="image-element star">
+<img src="img/elemen-3.webp" alt="element" class="image-element abstract-1">
+<img src="img/elemen-5.webp" alt="element" class="image-element abstract-2">
+<img src="img/elemen-6.webp" alt="element" class="image-element abstract-3">
+<img src="img/elemen-9.webp" alt="element" class="image-element abstract-4">

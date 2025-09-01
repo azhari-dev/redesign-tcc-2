@@ -35,7 +35,7 @@
     </defs>
 </svg>
 
-<img src="../img/elemen-8.png" alt="element" class="image-element moon">
-<img src="../img/elemen-2.png" alt="element" class="image-element mouth other">
-<img src="../img/elemen-7.png" alt="element" class="image-element teratai other">
-<img src="../img/elemen-3.png" alt="element" class="image-element abstract-1">
+<img src="../img/elemen-8.webp" alt="element" class="image-element moon">
+<img src="../img/elemen-2.webp" alt="element" class="image-element mouth other">
+<img src="../img/elemen-7.webp" alt="element" class="image-element teratai other">
+<img src="../img/elemen-3.webp" alt="element" class="image-element abstract-1">
