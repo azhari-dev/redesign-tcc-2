@@ -7,7 +7,7 @@
     <a href="#home" class="menu active">Home</a>
     <a href="#competitions" class="menu">Competitions</a>
     <a href="#event" class="menu">Events</a>
-    <a href="#faq" class="menu">FAQ</a>
+    <!-- <a href="#faq" class="menu">FAQ</a> -->
     <a href="#contact" class="menu">Contact</a>
   </div>
 </div>

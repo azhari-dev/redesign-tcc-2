@@ -5,8 +5,8 @@
             <p class="headline-3-regular">Trunojoyo Creative Competition (TCC) adalah ajang kompetisi yang diselenggarakan UKM Creative Computer Club (Triple-C) Universitas Trunojoyo Madura untuk mengembangkan keterampilan, kreativitas, dan inovasi di bidang teknologi. Melalui lomba Web Design, Artikel Umum, dan Mobile Legend, TCC mendorong mahasiswa dan pelajar mengasah kemampuan teknis, berpikir kreatif, analitis, serta kerja sama tim.</p>
         </div>
         <div class="home-button">
-            <a href="#" class="label-1-medium button-1-1">Daftar</a>
-            <a href="#" class="label-1-medium button-1-2">Hubungi Panitia</a>
+            <a href="#competitions" class="label-1-medium button-1-1">Daftar</a>
+            <a href="https://api.whatsapp.com/send/?phone=6285824162589&text&type=phone_number&app_absent=0" class="label-1-medium button-1-2">Hubungi Panitia</a>
         </div>
     </div>
     <div class="home-image">

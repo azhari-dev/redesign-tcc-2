@@ -21,7 +21,7 @@
           <p class="headline-3-regular" id="deskripsi">Webinar Karya Tulis Ilmiah merupakan rangkaian acara Trunojoyo Creative Competition 2025 yang diselenggarakan oleh UKM TRIPLE-C Universitas Trunojoyo Madura bekerja sama dengan KOPI ALINEA. Mengusung tema “The Architectonics of Scholarly Writing: Advanced Strategies for Precision, Persuasion, and Impact”, acara ini menghadirkan narasumber berpengalaman dari universitas internasional untuk membahas strategi menulis ilmiah yang presisi, persuasif, dan berdampak.</p>
         </div>
         <div class="card-button">
-          <a href="#" class="label-1-medium button-2-1">Daftar</a>
+          <a href="https://bit.ly/Pendaftaran_Webinar_TCC2025" class="label-1-medium button-2-1" id="daftar">Daftar</a>
           <!-- <a href="#" class="label-1-medium button-2-2">Detail</a> -->
         </div>
       </div>

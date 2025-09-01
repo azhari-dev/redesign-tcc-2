@@ -12,7 +12,7 @@
             <a href="#home" class="headline-3-regular">Home</a>
             <a href="#competitions" class="headline-3-regular">Competitions</a>
             <a href="#event" class="headline-3-regular">Event</a>
-            <a href="#faq" class="headline-3-regular">FAQ</a>
+            <!-- <a href="#faq" class="headline-3-regular">FAQ</a> -->
         </div>
     </div>
     <div class="contact-content-3">
