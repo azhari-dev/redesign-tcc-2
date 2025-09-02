@@ -6,7 +6,7 @@
         </div>
         <div class="home-button">
             <a href="#competitions" class="label-1-medium button-1-1">Daftar</a>
-            <a href="https://api.whatsapp.com/send/?phone=6285824162589&text&type=phone_number&app_absent=0" class="label-1-medium button-1-2">Hubungi Panitia</a>
+            <a href="https://api.whatsapp.com/send/?phone=6285824162589&text&type=phone_number&app_absent=0" class="label-1-medium button-1-2" target="_blank">Hubungi Panitia</a>
         </div>
     </div>
     <div class="home-image">

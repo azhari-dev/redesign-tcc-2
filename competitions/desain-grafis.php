@@ -24,8 +24,8 @@
             <p class="headline-3-medium">Lomba Desain Grafis merupakan salah satu cabang Trunojoyo Creative Competition 2025 yang diselenggarakan oleh UKM TRIPLE-C Universitas Trunojoyo Madura. Kompetisi ini ditujukan bagi siswa/i SMA sederajat di seluruh Indonesia untuk menghasilkan karya visual yang kreatif, komunikatif, dan estetis sesuai subtema pendidikan, teknologi, dan budaya. Penilaian berfokus pada kesesuaian tema, kreativitas, serta kejelasan pesan yang mampu memberi dampak positif bagi audiens.</p>
             <div class="card-button">
               <div class="card-button">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6qfnJ_O60E8Yz1nTjJPcvb2j4Ddm3FsAaZCYf7mTO_-leTA/viewform" class="label-1-medium button-2-1">Daftar</a>
-                <a href="https://bit.ly/Guidbook_DesainGrafisTCC2025" class="label-1-medium button-2-2">Guidebook</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6qfnJ_O60E8Yz1nTjJPcvb2j4Ddm3FsAaZCYf7mTO_-leTA/viewform" class="label-1-medium button-2-1" target="_blank">Daftar</a>
+                <a href="https://bit.ly/Guidbook_DesainGrafisTCC2025" class="label-1-medium button-2-2" target="_blank">Guidebook</a>
                 <a href="#" class="label-1-medium button-2-1">Pengumpulan Karya</a>
               </div>
             </div>

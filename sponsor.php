@@ -28,7 +28,8 @@
         <div class="item-medpart"></div>
     </div>
     <div class="button">
-        <a href="https://drive.google.com/drive/folders/1ELfBuX5EuSaexMOSBamK6pLoV7MFvNK6" class="label-1-medium button-3-1">Lihat Proposal Kami</a>
-        <a href="https://api.whatsapp.com/send/?phone=6285824162589&text&type=phone_number&app_absent=0" class="label-1-medium button-3-2">Gabung Bersama Kami</a>
+        <a href="https://drive.google.com/drive/folders/1ELfBuX5EuSaexMOSBamK6pLoV7MFvNK6" class="label-1-medium button-3-1" target="_blank
+        ">Lihat Proposal Kami</a>
+        <a href="https://api.whatsapp.com/send/?phone=6285824162589&text&type=phone_number&app_absent=0" class="label-1-medium button-3-2" target="_blank">Gabung Bersama Kami</a>
     </div>
 </div>

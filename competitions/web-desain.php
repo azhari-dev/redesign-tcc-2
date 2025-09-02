@@ -24,8 +24,8 @@
           <p class="headline-3-medium">Lomba Web Desain merupakan salah satu cabang Trunojoyo Creative Competition 2025 yang diselenggarakan oleh UKM TRIPLE-C Universitas Trunojoyo Madura. Kompetisi ini memberi kesempatan mahasiswa/i se-Indonesia untuk merancang website inovatif dan fungsional sesuai subtema pariwisata, bisnis, atau event. Penilaian berfokus pada orisinalitas konsep, fungsionalitas, serta kemampuan menghadirkan solusi digital yang bermanfaat dan berkelanjutan.</p>
           <div class="card-button">
             <div class="card-button">
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc28Fjms5BdzRztpIszkfh6ZaHqGWd4cbI2wIMuj1VQd8K6Cg/viewform" class="label-1-medium button-2-1">Daftar</a>
-              <a href="https://bit.ly/Guidebook_WebDesainTCC2025" class="label-1-medium button-2-2">Guidebook</a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc28Fjms5BdzRztpIszkfh6ZaHqGWd4cbI2wIMuj1VQd8K6Cg/viewform" class="label-1-medium button-2-1" target="_blank">Daftar</a>
+              <a href="https://bit.ly/Guidebook_WebDesainTCC2025" class="label-1-medium button-2-2" target="_blank">Guidebook</a>
               <a href="#" class="label-1-medium button-2-1">Pengumpulan Karya</a>
             </div>
           </div>

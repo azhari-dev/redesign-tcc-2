@@ -23,8 +23,8 @@
           <p class="headline-3-medium">Lomba Karya Tulis Ilmiah merupakan salah satu cabang Trunojoyo Creative Competition 2025 yang diselenggarakan oleh UKM TRIPLE-C berkolaborasi dengan KOPI ALINEA Universitas Trunojoyo Madura. Kompetisi ini memberikan ruang bagi mahasiswa/i se-Indonesia untuk menyusun gagasan kreatif, solutif, dan visioner dalam bidang pendidikan dan teknologi. Penilaian berfokus pada orisinalitas ide, kedalaman analisis, serta kontribusi nyata terhadap perkembangan ilmu pengetahuan.</p>
           <div class="card-button">
             <div class="card-button">
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB7fmIEooaoP7Uht5QF4ZlejMf-62oFeMgcbwxA1T1X_2pXg/viewform" class="label-1-medium button-2-1">Daftar</a>
-              <a href="https://bit.ly/Guidebook_LKTI_TCC2025" class="label-1-medium button-2-2">Guidebook</a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB7fmIEooaoP7Uht5QF4ZlejMf-62oFeMgcbwxA1T1X_2pXg/viewform" class="label-1-medium button-2-1" target="_blank">Daftar</a>
+              <a href="https://bit.ly/Guidebook_LKTI_TCC2025" class="label-1-medium button-2-2" target="_blank">Guidebook</a>
               <a href="#" class="label-1-medium button-2-1">Pengumpulan Karya</a>
             </div>
           </div>

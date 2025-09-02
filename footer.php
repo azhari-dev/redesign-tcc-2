@@ -4,19 +4,19 @@
         <p class="body-1-regular">2025 Creative Computer Club. All Rights Reserved.</p>
     </div>
     <div class="sosmed-fill">
-        <a href="https://www.triplec.or.id/">
+        <a href="https://www.triplec.or.id/" target="_blank">
             <img src="img/website.svg" alt="website">
         </a>
-        <a href="https://www.instagram.com/ukmtriplec">
+        <a href="https://www.instagram.com/ukmtriplec" target="_blank">
             <img src="img/instagram.svg" alt="instagram">
         </a>
-        <a href="https://www.tiktok.com/@ukm.triplec_official">
+        <a href="https://www.tiktok.com/@ukm.triplec_official" target="_blank">
             <img src="img/tiktok.svg" alt="tiktok">
         </a>
-        <a href="https://www.youtube.com/@ukmtriple-c">
+        <a href="https://www.youtube.com/@ukmtriple-c" target="_blank">
             <img src="img/youtube.svg" alt="youtube">
         </a>
-        <a href="https://x.com/ukmtriplec1">
+        <a href="https://x.com/ukmtriplec1" target="_blank">
             <img src="img/x.svg" alt="x">
         </a>
         <a href="#">

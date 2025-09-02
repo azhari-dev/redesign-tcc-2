@@ -35,7 +35,7 @@
             <p class="headline-3-regular">Peserta diminta menulis artikel ilmiah dengan tema teknologi, pendidikan, atau inovasi digital.</p>
           </div>
           <div class="card-button">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB7fmIEooaoP7Uht5QF4ZlejMf-62oFeMgcbwxA1T1X_2pXg/viewform" class="label-1-medium button-2-1">Daftar</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB7fmIEooaoP7Uht5QF4ZlejMf-62oFeMgcbwxA1T1X_2pXg/viewform" class="label-1-medium button-2-1" target="_blank">Daftar</a>
             <a href="competitions/artikel-ilmiah.php" class="label-1-medium button-2-2">Detail</a>
           </div>
         </div>
@@ -67,7 +67,7 @@
             <p class="headline-3-regular">Peserta membuat desain poster digital bertema teknologi, kreativitas, atau edukasi generasi muda.</p>
           </div>
           <div class="card-button">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6qfnJ_O60E8Yz1nTjJPcvb2j4Ddm3FsAaZCYf7mTO_-leTA/viewform" class="label-1-medium button-2-1">Daftar</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6qfnJ_O60E8Yz1nTjJPcvb2j4Ddm3FsAaZCYf7mTO_-leTA/viewform" class="label-1-medium button-2-1" target="_blank">Daftar</a>
             <a href="competitions/desain-grafis.php" class="label-1-medium button-2-2">Detail</a>
           </div>
         </div>
@@ -99,7 +99,7 @@
             <p class="headline-3-regular">Peserta membuat desain antarmuka (UI) dan struktur sederhana halaman web untuk produk atau tema tertentu.</p>
           </div>
           <div class="card-button">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc28Fjms5BdzRztpIszkfh6ZaHqGWd4cbI2wIMuj1VQd8K6Cg/viewform" class="label-1-medium button-2-1">Daftar</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc28Fjms5BdzRztpIszkfh6ZaHqGWd4cbI2wIMuj1VQd8K6Cg/viewform" class="label-1-medium button-2-1" target="_blank">Daftar</a>
             <a href="competitions/web-desain.php" class="label-1-medium button-2-2">Detail</a>
           </div>
         </div>
