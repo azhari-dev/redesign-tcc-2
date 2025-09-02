@@ -47,6 +47,7 @@
   align-self: stretch;
   gap: 48px;
   width: 75%;
+  text-align: justify;
 }
 
 .content-image {

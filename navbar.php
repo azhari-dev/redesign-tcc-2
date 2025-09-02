@@ -4,7 +4,7 @@
     <p class="headline-3-medium">Trunojoyo Creative Competition</p>
   </div>
   <div class="nav-menu callout-medium">
-    <a href="#home" class="menu active">Home</a>
+    <a href="#home" class="menu">Home</a>
     <a href="#competitions" class="menu">Competitions</a>
     <a href="#event" class="menu">Events</a>
     <!-- <a href="#faq" class="menu">FAQ</a> -->

@@ -15,6 +15,7 @@
   align-items: center;
   gap: 24px;
 }
+
 .faq .contain-faq {
   display: flex;
   flex-direction: column;
@@ -38,7 +39,7 @@
   position: relative;
   /* height: 200px; */
   right: 30;
-  background-color: rebeccapurple;
+  /* background-color: rebeccapurple; */
 }
 
 .faq-content {
