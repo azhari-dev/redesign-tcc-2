@@ -1,4 +1,15 @@
 <div class="sponsorship">
+    <p class="heading-3-medium">Collaborator</p>
+    <div class="sponsor-content">
+        <div class="list-sponsor">
+            <div class="item-sponsor">
+                <img src="img/utm-water.webp" alt="">
+            </div>
+            <p class="headline-3-medium">Kopi Alinea</p>
+        </div>
+    </div>
+</div>
+<div class="sponsorship">
     <p class="heading-3-medium">Sponsorship</p>
     <div class="sponsor-content">
         <div class="list-sponsor">
