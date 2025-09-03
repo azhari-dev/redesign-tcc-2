@@ -10,7 +10,6 @@
 .timeline {
   display: flex;
   align-items: start;
-  /* background-color: aqua; */
 }
 
 .headings {
@@ -37,8 +36,10 @@
 
 .card {
   display: flex;
+  width: 349.333px;
   flex-direction: column;
   align-items: center;
+  gap: -64px;
 }
 
 .card-icon, .card-icon-juara {
@@ -51,10 +52,14 @@
   width: 64px;
   height: 64px;
   border-radius: 100%;
-
+  
   /* 3D */
   box-shadow: 2px 2px 4px 0 rgba(178, 222, 203, 0.75) inset, -2px -2px 2px 0 rgba(0, 39, 12, 0.35) inset;
   backdrop-filter: blur(3px);
+}
+
+.lkti .card-icon-juara {
+  padding: 24px;
 }
 
 .card-icon img {
@@ -62,12 +67,26 @@
   height: 56px;
 }
 
-.card-contain {
-  position: relative;
+.hadiah .card-icon-juara img {
   display: flex;
-  align-self: stretch;
-  margin-top: -46px;
+  height: fit-content;
 }
+
+.card-contain {
+  display: flex;
+  align-items: center;
+  margin-top: -46px; 
+  align-self: stretch;
+}
+
+.hadiah .card-contain {
+  margin-top: -36px;
+}
+
+.lkti.hadiah .card-contain {
+  margin-top: -28px; 
+}
+
 
 .card-button {
   display: flex;
@@ -78,12 +97,29 @@
   position: absolute;
 }
 
+.card-content-diff {
+  display: flex;
+  height: 360px;
+  width: fit-content;
+  z-index: 1;
+  padding: 72px 36px 36px;
+  flex-direction: column;
+}
+
+.lkti .card-content-diff {
+  padding: 52px 36px 36px;
+}
+
 .subtract {
   height: 360px;
   flex-shrink: 0;
   fill: var(--mainprimarypr-50, #F0FDF1);
   stroke-width: 2px;
 }
+
+.lkti .subtract {
+  height: 406px;
+}   
 
 .card-content {
   height: 360px;
