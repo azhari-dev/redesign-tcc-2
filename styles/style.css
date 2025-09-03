@@ -83,6 +83,22 @@ body {
   line-height: var(--label-label-1-medium-line-height);
 }
 
+.label-2-medium {
+  font-size: var(--label-label-2-medium-font-size);
+  font-weight: var(--label-label-2-medium-font-weight);
+  font-style: var(--label-label-2-medium-font-style);
+  letter-spacing: var(--label-label-2-medium-letter-spacing);
+  line-height: var(--label-label-2-medium-line-height);
+}
+
+.body-1-medium {
+  font-size: var(--body-body-1-medium-font-size);
+  font-weight: var(--body-body-1-medium-font-weight);
+  font-style: var(--body-body-1-medium-font-style);
+  letter-spacing: var(--body-body-1-medium-letter-spacing);
+  line-height: var(--body-body-1-medium-line-height);
+}
+
 .body-1-regular {
   font-size: var(--body-body-1-regular-font-size);
   font-weight: var(--body-body-1-regular-font-weight);

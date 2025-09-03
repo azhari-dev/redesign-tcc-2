@@ -12,6 +12,17 @@
   gap: 24px;
 }
 
+/* .sponsor-content {
+  background-color: tomato;
+} */
+
+.list-sponsor, .list-medpart {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+}
+
 .item-sponsor, .item-medpart {
   display: flex;
   justify-content: center;
@@ -19,8 +30,13 @@
 }
 
 .item-sponsor img {
-  width: 100px;
-  height: 100px;
+  width: 112px;
+  height: 112px;
+}
+
+.item-medpart img {
+  width: 72px;
+  height: 72px;
 }
 
 .item-sponsor.nelongso img {

@@ -42,7 +42,7 @@
       </div>
       <div class="section registrasi">
         <p>Rp 35.000</p>
-        <p class="heading-3-medium">/Tim</p>
+        <p class="heading-3-medium">/Individu</p>
       </div>
       <div class="headings">
         <div class="flower">

@@ -26,6 +26,10 @@
   stroke: var(--mainprimarypr-700, #187D28);
 }
 
+.chevron:hover {
+  cursor: pointer;
+}
+
 .left {
   rotate: 180deg;
 }
