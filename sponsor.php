@@ -14,6 +14,12 @@
     <div class="sponsor-content">
         <div class="list-sponsor">
             <div class="item-sponsor">
+                <img src="img/bni.webp" alt="">
+            </div>
+            <p class="headline-3-medium">BNI</p>
+        </div>
+        <div class="list-sponsor">
+            <div class="item-sponsor">
                 <img src="img/utm-water.webp" alt="">
             </div>
             <p class="headline-3-medium">UTM Water</p>
