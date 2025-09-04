@@ -41,8 +41,124 @@
         </div>
       </div>
       <div class="section registrasi">
-        <p>Rp 35.000</p>
-        <p class="heading-3-medium">/Individu</p>
+        <!-- <div class="registrasi-content tutup">
+          <div class="content-1">
+            <p class="headline-2-medium">Gelombang 1</p>
+            <div class="status-contain close">
+              <svg class="open-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <foreignObject x="-6" y="-6" width="32" height="32"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_0_396_373_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter0_ii_396_373)" data-figma-bg-blur-radius="6">
+                  <circle cx="10" cy="10" r="10" fill="#FF5C4D"/>
+                </g>
+                <defs>
+                  <filter id="filter0_ii_396_373" x="-6" y="-6" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+                    <feOffset dx="-1" dy="-2"/>
+                    <feGaussianBlur stdDeviation="1"/>
+                    <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+                    <feColorMatrix type="matrix" values="0 0 0 0 0.454902 0 0 0 0 0.0392157 0 0 0 0 0 0 0 0 0.35 0"/>
+                    <feBlend mode="normal" in2="shape" result="effect1_innerShadow_396_373"/>
+                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+                    <feOffset dx="1" dy="1"/>
+                    <feGaussianBlur stdDeviation="1"/>
+                    <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+                    <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.807843 0 0 0 0 0.788235 0 0 0 0.75 0"/>
+                    <feBlend mode="normal" in2="effect1_innerShadow_396_373" result="effect2_innerShadow_396_373"/>
+                  </filter>
+                  <clipPath id="bgblur_0_396_373_clip_path" transform="translate(6 6)"><circle cx="10" cy="10" r="10"/>
+                </clipPath></defs>
+              </svg>
+              <p class="callout-medium">Close</p>
+            </div>
+          </div>
+          <div class="content-2">
+            <p class="heading-1-bold">Rp. 35.000</p>
+            <p class="headline-2-medium">/Individu</p>
+          </div>
+        </div> -->
+        <div class="registrasi-content buka">
+          <div class="content-1">
+            <p class="headline-2-medium">Gelombang 1</p>
+            <div class="status-contain open">
+              <svg class="open-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <foreignObject x="-6" y="-6" width="32" height="32">
+                  <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_0_398_112_clip_path);height:100%;width:100%"></div>
+                </foreignObject>
+                <g filter="url(#filter0_ii_398_112)" data-figma-bg-blur-radius="6">
+                  <circle cx="10" cy="10" r="10" fill="#27C03D" />
+                </g>
+                <defs>
+                  <filter id="filter0_ii_398_112" x="-6" y="-6" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                    <feOffset dx="-1" dy="-2" />
+                    <feGaussianBlur stdDeviation="1" />
+                    <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                    <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.152931 0 0 0 0 0.046479 0 0 0 0.35 0" />
+                    <feBlend mode="normal" in2="shape" result="effect1_innerShadow_398_112" />
+                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                    <feOffset dx="1" dy="1" />
+                    <feGaussianBlur stdDeviation="1" />
+                    <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                    <feColorMatrix type="matrix" values="0 0 0 0 0.698039 0 0 0 0 0.870588 0 0 0 0 0.796078 0 0 0 0.75 0" />
+                    <feBlend mode="normal" in2="effect1_innerShadow_398_112" result="effect2_innerShadow_398_112" />
+                  </filter>
+                  <clipPath id="bgblur_0_398_112_clip_path" transform="translate(6 6)">
+                    <circle cx="10" cy="10" r="10" />
+                  </clipPath>
+                </defs>
+              </svg>
+              <p class="callout-medium">Open</p>
+            </div>
+          </div>
+          <div class="content-2">
+            <p class="heading-1-bold">Rp. 35.000</p>
+            <p class="headline-2-medium">/Individu</p>
+          </div>
+        </div>
+        <div class="registrasi-content tutup">
+          <div class="content-1">
+            <p class="headline-2-medium">Gelombang 2</p>
+            <div class="status-contain soon">
+              <svg class="open-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <foreignObject x="-6" y="-6" width="32" height="32">
+                  <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_0_398_106_clip_path);height:100%;width:100%"></div>
+                </foreignObject>
+                <g filter="url(#filter0_ii_398_106)" data-figma-bg-blur-radius="6">
+                  <circle cx="10" cy="10" r="10" fill="#FFD500" />
+                </g>
+                <defs>
+                  <filter id="filter0_ii_398_106" x="-6" y="-6" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                    <feOffset dx="-1" dy="-2" />
+                    <feGaussianBlur stdDeviation="1" />
+                    <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                    <feColorMatrix type="matrix" values="0 0 0 0 0.482353 0 0 0 0 0.4 0 0 0 0 0 0 0 0 0.35 0" />
+                    <feBlend mode="normal" in2="shape" result="effect1_innerShadow_398_106" />
+                    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                    <feOffset dx="1" dy="1" />
+                    <feGaussianBlur stdDeviation="1" />
+                    <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                    <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.94902 0 0 0 0 0.698039 0 0 0 0.75 0" />
+                    <feBlend mode="normal" in2="effect1_innerShadow_398_106" result="effect2_innerShadow_398_106" />
+                  </filter>
+                  <clipPath id="bgblur_0_398_106_clip_path" transform="translate(6 6)">
+                    <circle cx="10" cy="10" r="10" />
+                  </clipPath>
+                </defs>
+              </svg>
+              <p class="callout-medium">Soon</p>
+            </div>
+          </div>
+          <div class="content-2">
+            <p class="heading-1-bold">Rp. 40.000</p>
+            <p class="headline-2-medium">/Individu</p>
+          </div>
+        </div>
       </div>
       <div class="headings">
         <div class="flower">

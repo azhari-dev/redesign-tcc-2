@@ -10,6 +10,14 @@ body {
   overflow-x: hidden;
 }
 
+.heading-1-bold {
+  font-size: var(--heading-heading-1-bold-font-size);
+  font-weight: var(--heading-heading-1-bold-font-weight);
+  font-style: var(--heading-heading-1-bold-font-style);
+  letter-spacing: var(--heading-heading-1-bold-letter-spacing);
+  line-height: var(--heading-heading-1-bold-line-height);
+}
+
 .heading-2-bold {
   font-size: var(--heading-heading-2-bold-font-size);
   font-weight: var(--heading-heading-2-bold-font-weight);
@@ -73,6 +81,14 @@ body {
   font-style: var(--headline-headline-2-bold-font-style);
   letter-spacing: var(--headline-headline-2-bold-letter-spacing);
   line-height: var(--headline-headline-2-bold-line-height);
+}
+
+.headline-2-medium {
+  font-size: var(--headline-headline-2-medium-font-size);
+  font-weight: var(--headline-headline-2-medium-font-weight);
+  font-style: var(--headline-headline-2-medium-font-style);
+  letter-spacing: var(--headline-headline-2-medium-letter-spacing);
+  line-height: var(--headline-headline-2-medium-line-height);
 }
 
 .label-1-medium {
