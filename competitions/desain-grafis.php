@@ -200,6 +200,10 @@
                     <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
                   </div>
+                  <div class="list-card">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
+                    <p class="headline-3-medium">Merchandise</p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -239,6 +243,10 @@
                     <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
                   </div>
+                  <div class="list-card">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
+                    <p class="headline-3-medium">Merchandise</p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -277,6 +285,10 @@
                   <div class="list-card">
                     <img src="../img/elemen-4.webp" alt="elemen-5">
                     <p class="headline-3-medium">Piala</p>
+                  </div>
+                  <div class="list-card">
+                    <img src="../img/elemen-4.webp" alt="elemen-5">
+                    <p class="headline-3-medium">Merchandise</p>
                   </div>
                 </div>
               </div>
