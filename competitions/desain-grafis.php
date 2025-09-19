@@ -33,7 +33,7 @@
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6qfnJ_O60E8Yz1nTjJPcvb2j4Ddm3FsAaZCYf7mTO_-leTA/viewform" class="bg-primary-700 text-primary-50 px-6 py-3 rounded-lg font-medium text-center shadow-3d backdrop-blur-sm hover:bg-primary-700/90 transition-colors">
                             Daftar
                         </a>
-                        <a href="https://bit.ly/Guidbook_DesainGrafisTCC2025" class="border-2 border-primary-700 text-primary-700 bg-white/10 px-6 py-3 rounded-lg font-medium text-center shadow-3d-secondary backdrop-blur-sm hover:bg-primary-50 transition-colors">
+                        <a href="https://drive.google.com/drive/folders/19Z4pTn-PXGLzFDNI8SRRIvyXkbMPV6RC" class="border-2 border-primary-700 text-primary-700 bg-white/10 px-6 py-3 rounded-lg font-medium text-center shadow-3d-secondary backdrop-blur-sm hover:bg-primary-50 transition-colors">
                             Guidebook
                         </a>
                         <a href="#" class="bg-primary-700 text-primary-50 px-6 py-3 rounded-lg font-medium text-center shadow-3d backdrop-blur-sm hover:bg-primary-700/90 transition-colors">
@@ -64,28 +64,33 @@
                             <h3 class="text-lg lg:text-2xl font-medium">Gelombang 1</h3>
                             <div class="flex items-center gap-2 px-3 py-1.5 rounded-full border border-danger-700 bg-danger-100">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
-                                    <foreignObject x="-6" y="-6" width="32" height="32"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_0_396_373_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter0_ii_396_373)" data-figma-bg-blur-radius="6">
-                                        <circle cx="10" cy="10" r="10" fill="#FF5C4D"/>
+                                    <foreignObject x="-6" y="-6" width="32" height="32">
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_0_396_373_clip_path);height:100%;width:100%"></div>
+                                    </foreignObject>
+                                    <g filter="url(#filter0_ii_396_373)" data-figma-bg-blur-radius="6">
+                                        <circle cx="10" cy="10" r="10" fill="#FF5C4D" />
                                     </g>
                                     <defs>
                                         <filter id="filter0_ii_396_373" x="-6" y="-6" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                        <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-                                        <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-                                        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-                                        <feOffset dx="-1" dy="-2"/>
-                                        <feGaussianBlur stdDeviation="1"/>
-                                        <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-                                        <feColorMatrix type="matrix" values="0 0 0 0 0.454902 0 0 0 0 0.0392157 0 0 0 0 0 0 0 0 0.35 0"/>
-                                        <feBlend mode="normal" in2="shape" result="effect1_innerShadow_396_373"/>
-                                        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-                                        <feOffset dx="1" dy="1"/>
-                                        <feGaussianBlur stdDeviation="1"/>
-                                        <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-                                        <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.807843 0 0 0 0 0.788235 0 0 0 0.75 0"/>
-                                        <feBlend mode="normal" in2="effect1_innerShadow_396_373" result="effect2_innerShadow_396_373"/>
+                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+                                            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                                            <feOffset dx="-1" dy="-2" />
+                                            <feGaussianBlur stdDeviation="1" />
+                                            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                                            <feColorMatrix type="matrix" values="0 0 0 0 0.454902 0 0 0 0 0.0392157 0 0 0 0 0 0 0 0 0.35 0" />
+                                            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_396_373" />
+                                            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                                            <feOffset dx="1" dy="1" />
+                                            <feGaussianBlur stdDeviation="1" />
+                                            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                                            <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.807843 0 0 0 0 0.788235 0 0 0 0.75 0" />
+                                            <feBlend mode="normal" in2="effect1_innerShadow_396_373" result="effect2_innerShadow_396_373" />
                                         </filter>
-                                        <clipPath id="bgblur_0_396_373_clip_path" transform="translate(6 6)"><circle cx="10" cy="10" r="10"/>
-                                    </clipPath></defs>
+                                        <clipPath id="bgblur_0_396_373_clip_path" transform="translate(6 6)">
+                                            <circle cx="10" cy="10" r="10" />
+                                        </clipPath>
+                                    </defs>
                                 </svg>
                                 <span class="text-sm font-medium text-danger-700">Close</span>
                             </div>
@@ -103,31 +108,31 @@
                             <div class="flex items-center gap-2 px-3 py-1.5 rounded-full border border-primary-700 bg-primary-100">
                                 <svg class="open-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                                     <foreignObject x="-6" y="-6" width="32" height="32">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_0_398_112_clip_path);height:100%;width:100%"></div>
+                                        <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_0_398_112_clip_path);height:100%;width:100%"></div>
                                     </foreignObject>
                                     <g filter="url(#filter0_ii_398_112)" data-figma-bg-blur-radius="6">
-                                    <circle cx="10" cy="10" r="10" fill="#27C03D" />
+                                        <circle cx="10" cy="10" r="10" fill="#27C03D" />
                                     </g>
                                     <defs>
-                                    <filter id="filter0_ii_398_112" x="-6" y="-6" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                        <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
-                                        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-                                        <feOffset dx="-1" dy="-2" />
-                                        <feGaussianBlur stdDeviation="1" />
-                                        <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
-                                        <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.152931 0 0 0 0 0.046479 0 0 0 0.35 0" />
-                                        <feBlend mode="normal" in2="shape" result="effect1_innerShadow_398_112" />
-                                        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-                                        <feOffset dx="1" dy="1" />
-                                        <feGaussianBlur stdDeviation="1" />
-                                        <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
-                                        <feColorMatrix type="matrix" values="0 0 0 0 0.698039 0 0 0 0 0.870588 0 0 0 0 0.796078 0 0 0 0.75 0" />
-                                        <feBlend mode="normal" in2="effect1_innerShadow_398_112" result="effect2_innerShadow_398_112" />
-                                    </filter>
-                                    <clipPath id="bgblur_0_398_112_clip_path" transform="translate(6 6)">
-                                        <circle cx="10" cy="10" r="10" />
-                                    </clipPath>
+                                        <filter id="filter0_ii_398_112" x="-6" y="-6" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+                                            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                                            <feOffset dx="-1" dy="-2" />
+                                            <feGaussianBlur stdDeviation="1" />
+                                            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                                            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.152931 0 0 0 0 0.046479 0 0 0 0.35 0" />
+                                            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_398_112" />
+                                            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+                                            <feOffset dx="1" dy="1" />
+                                            <feGaussianBlur stdDeviation="1" />
+                                            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+                                            <feColorMatrix type="matrix" values="0 0 0 0 0.698039 0 0 0 0 0.870588 0 0 0 0 0.796078 0 0 0 0.75 0" />
+                                            <feBlend mode="normal" in2="effect1_innerShadow_398_112" result="effect2_innerShadow_398_112" />
+                                        </filter>
+                                        <clipPath id="bgblur_0_398_112_clip_path" transform="translate(6 6)">
+                                            <circle cx="10" cy="10" r="10" />
+                                        </clipPath>
                                     </defs>
                                 </svg>
                                 <span class="text-sm font-medium text-primary-700">Open</span>
@@ -250,32 +255,34 @@
         </div>
     </main>
 
-    <?php include '../absolute_elements_other.php'; ?>
+    <div class="hidden lg:block">
+        <?php include '../absolute_elements_other.php'; ?>
+    </div>
 
     <script src="../main.js">
-        function toggleMobileMenu() {
-            const mobileMenu = document.getElementById('mobileMenu');
-            mobileMenu.classList.toggle('hidden');
-        }
+        // function toggleMobileMenu() {
+        //     const mobileMenu = document.getElementById('mobileMenu');
+        //     mobileMenu.classList.toggle('hidden');
+        // }
 
-        // Close mobile menu when clicking outside
-        document.addEventListener('click', function(event) {
-            const navbar = document.querySelector('nav');
-            const mobileMenu = document.getElementById('mobileMenu');
-            const menuButton = document.querySelector('[onclick="toggleMobileMenu()"]');
+        // // Close mobile menu when clicking outside
+        // document.addEventListener('click', function(event) {
+        //     const navbar = document.querySelector('nav');
+        //     const mobileMenu = document.getElementById('mobileMenu');
+        //     const menuButton = document.querySelector('[onclick="toggleMobileMenu()"]');
 
-            if (!navbar.contains(event.target) && !mobileMenu.classList.contains('hidden')) {
-                mobileMenu.classList.add('hidden');
-            }
-        });
+        //     if (!navbar.contains(event.target) && !mobileMenu.classList.contains('hidden')) {
+        //         mobileMenu.classList.add('hidden');
+        //     }
+        // });
 
-        // Close mobile menu when window is resized to desktop
-        window.addEventListener('resize', function() {
-            const mobileMenu = document.getElementById('mobileMenu');
-            if (window.innerWidth >= 1024) {
-                mobileMenu.classList.add('hidden');
-            }
-        });
+        // // Close mobile menu when window is resized to desktop
+        // window.addEventListener('resize', function() {
+        //     const mobileMenu = document.getElementById('mobileMenu');
+        //     if (window.innerWidth >= 1024) {
+        //         mobileMenu.classList.add('hidden');
+        //     }
+        // });
     </script>
 </body>
 

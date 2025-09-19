@@ -24,7 +24,7 @@
                 <!-- Content -->
                 <div class="order-1 lg:order-2 flex-1 flex flex-col lg:flex-row items-center lg:items-start gap-8 lg:gap-16">
                     <!-- Text Content -->
-                    <div class="sm:order-2 lg:order-2 w-full lg:w-3/5 space-y-6 text-center lg:text-left">
+                    <div class="order-2 w-full lg:w-3/5 space-y-6 text-center lg:text-left">
                         <div class="space-y-4">
                             <h3 id="event-title" class="text-xl sm:text-2xl font-bold font-bold text-primary-900">Pra Event</h3>
                             <p id="event-description" class="text-base sm:text-lg lg:text-md leading-relaxed text-primary-700 text-justify">
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                     <!-- Image -->
-                    <div class="w-full lg:w-2/5 max-w-sm">
+                    <div class="order-1 w-full lg:w-2/5 max-w-sm">
                         <div class="bg-primary-700 rounded-xl p-4 shadow-3d">
                             <img id="event-image" src="img/webinar.webp" alt="Event" class="w-full h-[100%] object-cover rounded-lg">
                         </div>

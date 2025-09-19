@@ -58,7 +58,7 @@
                         Peserta membuat desain poster digital bertema teknologi, kreativitas, atau edukasi generasi muda.
                     </p>
                     <div class="flex gap-4 mt-6">
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeB7fmIEooaoP7Uht5QF4ZlejMf-62oFeMgcbwxA1T1X_2pXg/viewform" target="_blank" class="flex-1 px-4 py-3 bg-primary-700 text-primary-50 rounded-lg font-medium shadow-3d text-center hover:bg-primary-800 transition-all">
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6qfnJ_O60E8Yz1nTjJPcvb2j4Ddm3FsAaZCYf7mTO_-leTA/viewform" target="_blank" class="flex-1 px-4 py-3 bg-primary-700 text-primary-50 rounded-lg font-medium shadow-3d text-center hover:bg-primary-800 transition-all">
                             Daftar
                         </a>
                         <a href="competitions/desain-grafis.php" class="flex-1 px-4 py-3 border-2 border-primary-700 bg-white/1 text-primary-700 rounded-lg font-medium shadow-3d-light text-center hover:bg-primary-50 transition-all">
@@ -67,7 +67,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- Web Desain -->
             <div class="relative w-full h-[364px]">
                 <!-- Background -->

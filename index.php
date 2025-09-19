@@ -71,8 +71,11 @@
         <?php include 'competitions.php'; ?>
         <?php include 'events.php'; ?>
         <?php include 'sponsor.php'; ?>
-        <?php include 'absolute_elements.php'; ?>
     </main>
+
+    <div class="hidden lg:block">
+        <?php include 'absolute_elements.php'; ?>
+    </div>
 
     <?php include 'footer.php'; ?>
 
