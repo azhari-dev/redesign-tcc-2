@@ -36,7 +36,7 @@
                         <a href="https://drive.google.com/drive/folders/1eWjH2MBzaaItZxXs6lXjnmc0v-whyZM8" class="border-2 border-primary-700 text-primary-700 bg-white/10 px-6 py-3 rounded-lg font-medium text-center shadow-3d-secondary backdrop-blur-sm hover:bg-primary-50 transition-colors">
                             Guidebook
                         </a>
-                        <a href="#" class="bg-primary-700 text-primary-50 px-6 py-3 rounded-lg font-medium text-center shadow-3d backdrop-blur-sm hover:bg-primary-700/90 transition-colors">
+                        <a href="https://forms.gle/VY98RZbR7qDMhhev9" class="bg-primary-700 text-primary-50 px-6 py-3 rounded-lg font-medium text-center shadow-3d backdrop-blur-sm hover:bg-primary-700/90 transition-colors">
                             Pengumpulan Karya
                         </a>
                     </div>
