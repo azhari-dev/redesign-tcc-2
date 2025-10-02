@@ -16,13 +16,16 @@
                     <!-- Collaborator -->
                     <div class="text-center space-y-8">
                         <h3 class="text-xl sm:text-2xl font-medium text-primary-900">Collaborator</h3>
-                        <div class="flex justify-center">
-                            <div class="flex flex-col items-center gap-4">
+                        <div class="flex justify-center gap-4 flex-col">
+                            <div class="flex justify-center items-center gap-6">
                                 <div class="w-28 h-28 p-4 sm:w-36 sm:h-36 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/utm-water.webp" alt="Kopi Alinea">
+                                    <img src="img/alinea.webp" alt="Kopi Alinea">
                                 </div>
-                                <p class="text-base sm:text-lg font-medium text-primary-900">Kopi Alinea</p>
+                                <div class="w-28 h-28 p-4 sm:w-36 sm:h-36 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/peneliti.webp" alt="Kopi Alinea">
+                                </div>
                             </div>
+                            <p class="text-base sm:text-lg font-medium text-primary-900">Kopi Alinea</p>
                         </div>
                     </div>
 
@@ -32,27 +35,45 @@
                         <div class="flex flex-wrap justify-center gap-6 lg:gap-12">
                             <div class="flex flex-col items-center gap-4">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/bni.webp" alt="BNI">
+                                    <img src="img/sponsor/bni.webp" alt="BNI">
                                 </div>
                                 <p class="text-sm sm:text-base font-medium text-primary-900">BNI</p>
                             </div>
                             <div class="flex flex-col items-center gap-4">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/utm-water.webp" alt="UTM Water">
+                                    <img src="img/sponsor/utm-water.webp" alt="UTM Water">
                                 </div>
                                 <p class="text-sm sm:text-base font-medium text-primary-900">UTM Water</p>
                             </div>
                             <div class="flex flex-col items-center gap-4">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/nelongso.webp" alt="Nelongso">
+                                    <img src="img/sponsor/nelongso.webp" alt="Nelongso">
                                 </div>
                                 <p class="text-sm sm:text-base font-medium text-primary-900">Nelongso</p>
                             </div>
                             <div class="flex flex-col items-center gap-4">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/haifa.webp" alt="Haifa">
+                                    <img src="img/sponsor/haifa.webp" alt="Haifa">
                                 </div>
                                 <p class="text-sm sm:text-base font-medium text-primary-900">Haifa</p>
+                            </div>
+                            <div class="flex flex-col items-center gap-4">
+                                <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/sponsor/digital-printing.webp" alt="digital-printing">
+                                </div>
+                                <p class="text-sm sm:text-base font-medium text-primary-900">Digital Printing</p>
+                            </div>
+                            <div class="flex flex-col items-center gap-4">
+                                <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/sponsor/ukir-pecah.webp" alt="ukir-pecah">
+                                </div>
+                                <p class="text-sm sm:text-base font-medium text-primary-900">Ukir Pecah</p>
+                            </div>
+                            <div class="flex flex-col items-center gap-4">
+                                <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/sponsor/wbl.webp" alt="wbl">
+                                </div>
+                                <p class="text-sm sm:text-base font-medium text-primary-900">Warung Boedjang Lapoek</p>
                             </div>
                         </div>
                     </div>
@@ -63,27 +84,57 @@
                         <div class="flex flex-wrap justify-center gap-4 lg:gap-8">
                             <div class="flex flex-col items-center gap-2">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/bem-telkom.webp" alt="BEM Telkom">
+                                    <img src="img/medpart/bem-telkom.webp" alt="BEM Telkom">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">BEM Telkom</p>
                             </div>
                             <div class="flex flex-col items-center gap-2">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/info-event.webp" alt="Info Event">
+                                    <img src="img/medpart/info-event.webp" alt="Info Event">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">Info Event</p>
                             </div>
                             <div class="flex flex-col items-center gap-2">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/we-care-bkl.webp" alt="We Care">
+                                    <img src="img/medpart/we-care-bkl.webp" alt="We Care">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">We Care</p>
                             </div>
                             <div class="flex flex-col items-center gap-2">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
-                                    <img src="img/progresif.webp" alt="Progresif">
+                                    <img src="img/medpart/alinea-zona.webp" alt="alinea-zona">
                                 </div>
-                                <p class="text-xs sm:text-sm font-medium text-primary-900">Progresif</p>
+                                <p class="text-xs sm:text-sm font-medium text-primary-900">Alinea Zona</p>
+                            </div>
+                            <div class="flex flex-col items-center gap-2">
+                                <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/medpart/bangkalanku.webp" alt="bangkalanku">
+                                </div>
+                                <p class="text-xs sm:text-sm font-medium text-primary-900">Bangkalanku</p>
+                            </div>
+                            <div class="flex flex-col items-center gap-2">
+                                <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/medpart/mhs-utm.webp" alt="mhs-utm">
+                                </div>
+                                <p class="text-xs sm:text-sm font-medium text-primary-900">Mahasiswa UTM</p>
+                            </div>
+                            <div class="flex flex-col items-center gap-2">
+                                <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/medpart/info-lomba-it.webp" alt="info-lomba-it">
+                                </div>
+                                <p class="text-xs sm:text-sm font-medium text-primary-900">Info Lomba IT</p>
+                            </div>
+                            <div class="flex flex-col items-center gap-2">
+                                <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/medpart/event-mahasiswa.webp" alt="event-mahasiswa">
+                                </div>
+                                <p class="text-xs sm:text-sm font-medium text-primary-900">Event Mahasiswa</p>
+                            </div>
+                            <div class="flex flex-col items-center gap-2">
+                                <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
+                                    <img src="img/medpart/mojokerto-dev.webp" alt="mojokerto-dev">
+                                </div>
+                                <p class="text-xs sm:text-sm font-medium text-primary-900">Mojokerto Dev</p>
                             </div>
                         </div>
                     </div>
