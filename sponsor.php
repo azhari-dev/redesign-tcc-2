@@ -32,48 +32,48 @@
                     <!-- Sponsorship -->
                     <div class="text-center space-y-8">
                         <h3 class="text-xl sm:text-2xl font-medium text-primary-900">Sponsorship</h3>
-                        <div class="flex flex-wrap justify-center gap-6 lg:gap-12">
-                            <div class="flex flex-col items-center gap-4">
+                        <div class="flex flex-wrap justify-center gap-6">
+                            <div class="flex flex-col items-center gap-4 sm:w-36 md:w-36 lg:w-36 w-24">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/sponsor/bni.webp" alt="BNI">
                                 </div>
-                                <p class="text-sm sm:text-base font-medium text-primary-900">BNI</p>
+                                <p class="text-sm sm:text-base font-medium text-primary-900 w-[50%]">BNI</p>
                             </div>
-                            <div class="flex flex-col items-center gap-4">
+                            <div class="flex flex-col items-center gap-4 sm:w-36 md:w-36 lg:w-36 w-24">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/sponsor/utm-water.webp" alt="UTM Water">
                                 </div>
                                 <p class="text-sm sm:text-base font-medium text-primary-900">UTM Water</p>
                             </div>
-                            <div class="flex flex-col items-center gap-4">
+                            <div class="flex flex-col items-center gap-4 sm:w-36 md:w-36 lg:w-36 w-24">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/sponsor/nelongso.webp" alt="Nelongso">
                                 </div>
                                 <p class="text-sm sm:text-base font-medium text-primary-900">Nelongso</p>
                             </div>
-                            <div class="flex flex-col items-center gap-4">
+                            <div class="flex flex-col items-center gap-4 sm:w-36 md:w-36 lg:w-36 w-24">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/sponsor/haifa.webp" alt="Haifa">
                                 </div>
                                 <p class="text-sm sm:text-base font-medium text-primary-900">Haifa</p>
                             </div>
-                            <div class="flex flex-col items-center gap-4">
+                            <div class="flex flex-col items-center gap-4 sm:w-36 md:w-36 lg:w-36 w-24">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/sponsor/digital-printing.webp" alt="digital-printing">
                                 </div>
-                                <p class="text-sm sm:text-base font-medium text-primary-900">Digital Printing</p>
+                                <p class="text-sm sm:text-base font-medium text-primary-900 w-[100%]">Digital Printing</p>
                             </div>
-                            <div class="flex flex-col items-center gap-4">
+                            <div class="flex flex-col items-center gap-4 sm:w-36 md:w-36 lg:w-36 w-24">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/sponsor/ukir-pecah.webp" alt="ukir-pecah">
                                 </div>
                                 <p class="text-sm sm:text-base font-medium text-primary-900">Ukir Pecah</p>
                             </div>
-                            <div class="flex flex-col items-center gap-4">
+                            <div class="flex flex-col items-center gap-4 sm:w-36 md:w-36 lg:w-36 w-24">
                                 <div class="w-24 h-24 p-4 sm:w-32 sm:h-32 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/sponsor/wbl.webp" alt="wbl">
                                 </div>
-                                <p class="text-sm sm:text-base font-medium text-primary-900">Warung Boedjang Lapoek</p>
+                                <p class="text-sm sm:text-base font-medium text-primary-900 w-[100%]">Warung Boedjang Lapoek</p>
                             </div>
                         </div>
                     </div>
@@ -82,55 +82,55 @@
                     <div class="text-center space-y-8">
                         <h3 class="text-xl sm:text-2xl font-medium text-primary-900">Media Partner</h3>
                         <div class="flex flex-wrap justify-center gap-4 lg:gap-8">
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/bem-telkom.webp" alt="BEM Telkom">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">BEM Telkom</p>
                             </div>
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/info-event.webp" alt="Info Event">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">Info Event</p>
                             </div>
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/we-care-bkl.webp" alt="We Care">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">We Care</p>
                             </div>
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/alinea-zona.webp" alt="alinea-zona">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">Alinea Zona</p>
                             </div>
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/bangkalanku.webp" alt="bangkalanku">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">Bangkalanku</p>
                             </div>
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/mhs-utm.webp" alt="mhs-utm">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">Mahasiswa UTM</p>
                             </div>
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/info-lomba-it.webp" alt="info-lomba-it">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">Info Lomba IT</p>
                             </div>
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/event-mahasiswa.webp" alt="event-mahasiswa">
                                 </div>
                                 <p class="text-xs sm:text-sm font-medium text-primary-900">Event Mahasiswa</p>
                             </div>
-                            <div class="flex flex-col items-center gap-2">
+                            <div class="flex flex-col items-center gap-2 sm:w-24 md:w-24 lg:w-24 w-16">
                                 <div class="w-16 h-16 p-3 sm:w-20 sm:h-20 bg-primary-700 rounded-full flex items-center justify-center shadow-3d">
                                     <img src="img/medpart/mojokerto-dev.webp" alt="mojokerto-dev">
                                 </div>
