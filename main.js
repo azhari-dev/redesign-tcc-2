@@ -74,8 +74,8 @@ const eventData = [
     {
         title: "Main Event",
         description: "Coming Soon - Main event TCC 2025 akan segera hadir dengan berbagai kegiatan menarik dan kompetitif.",
-        image: "img/talkshow.webp",
-        registerUrl: "#"
+        image: "img/talkshow.jpg",
+        registerUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfO3a-u4wpOnjbA_o7AIg0D2mz0SjgVwfW09y8HC7GPP5fP7A/viewform"
     }
 ];
 // 
