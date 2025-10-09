@@ -22,9 +22,9 @@
                     </svg>
                 </button>
                 <!-- Content -->
-                <div class="order-1 lg:order-2 flex-1 flex flex-col lg:flex-row items-center lg:items-start gap-8 lg:gap-16">
+                <!-- <div class="order-1 lg:order-2 flex-1 flex flex-col lg:flex-row items-center lg:items-start gap-8 lg:gap-16"> -->
                     <!-- Text Content -->
-                    <div class="order-2 w-full lg:w-3/5 space-y-6 text-center lg:text-left">
+                    <!-- <div class="order-2 w-full lg:w-3/5 space-y-6 text-center lg:text-left">
                         <div class="space-y-4">
                             <h3 id="event-title" class="text-xl sm:text-2xl font-bold font-bold text-primary-900">Pra Event</h3>
                             <p id="event-description" class="text-base sm:text-lg lg:text-md leading-relaxed text-primary-700 text-justify">
@@ -36,11 +36,33 @@
                                 Daftar
                             </a>
                         </div>
+                    </div> -->
+                    <!-- Image -->
+                    <!-- <div class="order-1 w-full lg:w-2/5 max-w-sm">
+                        <div class="bg-primary-700 rounded-xl p-4 shadow-3d">
+                            <img id="event-image" src="img/webinar.webp" alt="Event" class="w-full h-[100%] object-cover rounded-lg">
+                        </div>
+                    </div> -->
+                <!-- </div> -->
+                <div class="order-1 lg:order-2 flex-1 flex flex-col lg:flex-row items-center lg:items-start gap-8 lg:gap-16">
+                    <!-- Text Content -->
+                    <div class="order-2 w-full lg:w-3/5 space-y-6 text-center lg:text-left">
+                        <div class="space-y-4">
+                            <h3 id="event-title" class="text-xl sm:text-2xl font-bold font-bold text-primary-900">Main Event</h3>
+                            <p id="event-description" class="text-base sm:text-lg lg:text-md leading-relaxed text-primary-700 text-justify">
+                                Salah satu rangkaian Trunojoyo Creative Competition 2025 yang diselenggarakan oleh UKM TRIPLE-C Universitas Trunojoyo Madura, hadir pada 19 Oktober 2025 di Universitas Trunojoyo Madura! Dengan tema 'Tech & Talk: Connecting People, Building Communities', acara ini menghadirkan diskusi inspiratif seputar komunikasi digital dan peran teknologi dalam menghubungkan manusia di era modern. Melalui talkshow ini, peserta akan diajak untuk memahami bagaimana memanfaatkan teknologi sebagai sarana komunikasi yang efektif serta membangun komunitas yang inklusif, kreatif, dan berdaya saing. Jangan lewatkan kesempatan untuk mendapatkan insight berharga, pengalaman inspiratif, dan koneksi baru di dunia digital!
+                            </p>
+                        </div>
+                        <div class="flex justify-center lg:justify-start">
+                            <a id="event-register" href="https://docs.google.com/forms/d/e/1FAIpQLSfO3a-u4wpOnjbA_o7AIg0D2mz0SjgVwfW09y8HC7GPP5fP7A/viewform" target="_blank" class="px-6 sm:px-8 py-3 bg-primary-700 text-primary-50 rounded-lg font-medium shadow-3d hover:bg-primary-800 transition-all">
+                                Daftar
+                            </a>
+                        </div>
                     </div>
                     <!-- Image -->
                     <div class="order-1 w-full lg:w-2/5 max-w-sm">
                         <div class="bg-primary-700 rounded-xl p-4 shadow-3d">
-                            <img id="event-image" src="img/webinar.webp" alt="Event" class="w-full h-[100%] object-cover rounded-lg">
+                            <img id="event-image" src="img/talkshow.jpg" alt="Event" class="w-full h-[100%] object-cover rounded-lg">
                         </div>
                     </div>
                 </div>

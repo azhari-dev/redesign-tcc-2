@@ -66,17 +66,17 @@ mobileMenuBtn.addEventListener('click', () => {
 // Event Carousel
 const eventData = [
     {
+        title: "Main Event",
+        description: "Salah satu rangkaian Trunojoyo Creative Competition 2025 yang diselenggarakan oleh UKM TRIPLE-C Universitas Trunojoyo Madura, hadir pada 19 Oktober 2025 di Universitas Trunojoyo Madura! Dengan tema 'Tech & Talk: Connecting People, Building Communities', acara ini menghadirkan diskusi inspiratif seputar komunikasi digital dan peran teknologi dalam menghubungkan manusia di era modern. Melalui talkshow ini, peserta akan diajak untuk memahami bagaimana memanfaatkan teknologi sebagai sarana komunikasi yang efektif serta membangun komunitas yang inklusif, kreatif, dan berdaya saing. Jangan lewatkan kesempatan untuk mendapatkan insight berharga, pengalaman inspiratif, dan koneksi baru di dunia digital!",
+        image: "img/talkshow.jpg",
+        registerUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfO3a-u4wpOnjbA_o7AIg0D2mz0SjgVwfW09y8HC7GPP5fP7A/viewform"
+    },
+    {
         title: "Pra Event",
         description: "Webinar Karya Tulis Ilmiah merupakan rangkaian acara Trunojoyo Creative Competition 2025 yang diselenggarakan oleh UKM TRIPLE-C Universitas Trunojoyo Madura bekerja sama dengan KOPI ALINEA. Mengusung tema \"The Architectonics of Scholarly Writing: Advanced Strategies for Precision, Persuasion, and Impact\", acara ini menghadirkan narasumber berpengalaman dari universitas internasional untuk membahas strategi menulis ilmiah yang presisi, persuasif, dan berdampak.",
         image: "img/webinar.webp",
         registerUrl: "https://docs.google.com/forms/d/e/1FAIpQLScC0VT0cZVY6yMqOsxlCXpzDFkGHcPSBhbdgNZ56OsmoF_UOw/viewform"
     },
-    {
-        title: "Main Event",
-        description: "Coming Soon - Main event TCC 2025 akan segera hadir dengan berbagai kegiatan menarik dan kompetitif.",
-        image: "img/talkshow.jpg",
-        registerUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfO3a-u4wpOnjbA_o7AIg0D2mz0SjgVwfW09y8HC7GPP5fP7A/viewform"
-    }
 ];
 // 
 let currentEventIndex = 0;
